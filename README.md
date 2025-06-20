@@ -1,13 +1,14 @@
 # CientificoFinaipro
 
 Este repositorio contiene la solución completa a la prueba técnica, organizada por etapas según los tres pilares solicitados: Python, Docker y MLOps.
+
 🔀 Ramas
-- branchPythonDocker
+## branchPythonDocker
 Contiene la solución a:
 - Preguntas de Python (conceptual)
 - Preguntas de Docker  (conceptual)
 
-- branchMlops
+## branchMlops
 Contiene la solución al enfoque MLOps:
 - Extracción de datos
 - Limpieza y transformación de variables
